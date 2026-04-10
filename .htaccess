@@ -1,0 +1,4 @@
+# Local admin access configuration for Apache mod_env
+# Replace/remove these values in production and set them from server environment.
+SetEnv ADMIN_USER_IDS 41
+SetEnv ADMIN_EMAILS admin@avscanner.tech

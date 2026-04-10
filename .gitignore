@@ -1,0 +1,21 @@
+# Environment variables
+.env
+.env.*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+django_backend/.venv/
+
+# Archives
+*.zip
+avscanner-deploy.zip
+
+# OS files
+.DS_Store
+Thumbs.db

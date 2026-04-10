@@ -1,0 +1,9 @@
+{
+    "require": {
+        "robthree/otphp": "^5.0",
+        "bacon/bacon-qr-code": "^3.0"
+    },
+    "config": {
+        "process-timeout": 2000
+    }
+}
