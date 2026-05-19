@@ -125,9 +125,8 @@
 <body class="app-body">
     <div class="d-flex">
         <nav class="sidebar vh-100 p-3" id="sidebar">
-            <div class="sidebar-header mb-4 d-flex align-items-center gap-2">
-                <img src="assets/images/logo.jpeg" alt="Logo" width="40" height="40" class="rounded">
-                <h5 class="fw-bold mb-0">AVScanner</h5>
+            <div class="sidebar-header mb-4 text-center">
+                <a href="index.php"><img src="assets/images/logo.png" alt="AVScanner" style="max-width: 100%; height: 60px; object-fit: contain;" class="rounded"></a>
             </div>
             <ul class="nav flex-column">
                 <li class="nav-item"><a class="nav-link" href="dashboard.php"><i class="bi bi-grid-1x2-fill me-2"></i>Dashboard</a></li>

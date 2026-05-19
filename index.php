@@ -148,9 +148,8 @@
             <!-- ⭐ LOGO FIXED HERE ⭐ -->
             <!-- Removed padding/margin classes that pushed it to the corner -->
             <!-- Added 'd-flex align-items-center' for perfect vertical centering with text -->
-            <a class="navbar-brand fw-bold d-flex align-items-center gap-2" href="index.php">
-                <img src="assets/images/logo.jpeg" alt="AVS Logo" width="40" height="40" class="d-inline-block align-text-top">
-                <span>Automated Vulnerability Scanner</span>
+            <a class="navbar-brand" href="index.php">
+                <img src="assets/images/logo.png" alt="AVScanner" style="height: 50px; width: auto; object-fit: contain;" class="rounded">
             </a>
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
