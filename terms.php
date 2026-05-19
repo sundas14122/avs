@@ -21,8 +21,8 @@
     <!-- Simple Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-transparent pt-4 px-4">
         <div class="container-fluid">
-            <a class="navbar-brand" href="index.php">
-                <img src="assets/images/logo.png" alt="AVScanner" style="height: 40px; width: auto; object-fit: contain;" class="rounded">
+            <a class="navbar-brand py-0" href="index.php">
+                <img src="assets/images/logo.png" alt="AVScanner" style="height: 80px; width: auto; object-fit: contain; transform: scale(1.5); transform-origin: left center;">
             </a>
             <div class="d-flex">
                 <!-- 2. SMART "BACK" BUTTON: Links to dashboard or home -->

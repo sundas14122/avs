@@ -148,8 +148,8 @@
             <!-- ⭐ LOGO FIXED HERE ⭐ -->
             <!-- Removed padding/margin classes that pushed it to the corner -->
             <!-- Added 'd-flex align-items-center' for perfect vertical centering with text -->
-            <a class="navbar-brand" href="index.php">
-                <img src="assets/images/logo.png" alt="AVScanner" style="height: 50px; width: auto; object-fit: contain;" class="rounded">
+            <a class="navbar-brand py-0" href="index.php">
+                <img src="assets/images/logo.png" alt="AVScanner" style="height: 80px; width: auto; object-fit: contain; transform: scale(1.5); transform-origin: left center;">
             </a>
             
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
