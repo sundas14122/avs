@@ -14,7 +14,7 @@ if (!current_user_is_admin($conn)) {
 
 try {
     $sessions = [];
-    $sql = "SELECT s.id, s.user_id, u.username, u.email, s.ip_address, s.user_agent, s.created_at, s.last_seen
+    $sql = "SELECT s.id, s.user_id, u.username, u.email, s.ip_address, s.user_agent, s.last_seen as created_at, s.last_seen
             FROM user_sessions s
             JOIN users u ON s.user_id = u.id
             ORDER BY s.last_seen DESC

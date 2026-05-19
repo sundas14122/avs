@@ -57,8 +57,9 @@
           4. SIDEBAR: Complete, correct sidebar with .php links
         -->
        <nav class="sidebar vh-100 p-3" id="sidebar">
-            <div class="sidebar-header mb-4">
-                <h4 class="fw-bold"><i class="bi bi-shield-fill me-2"></i>Vulnerability Scanner</h4>
+            <div class="sidebar-header mb-4 d-flex align-items-center gap-2">
+                <img src="assets/images/logo.jpeg" alt="Logo" width="40" height="40" class="rounded">
+                <h5 class="fw-bold mb-0">AVScanner</h5>
             </div>
             <ul class="nav flex-column">
                 <li class="nav-item"><a class="nav-link" href="dashboard.php"><i class="bi bi-grid-1x2-fill me-2"></i>Dashboard</a></li>

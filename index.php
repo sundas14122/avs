@@ -149,7 +149,7 @@
             <!-- Removed padding/margin classes that pushed it to the corner -->
             <!-- Added 'd-flex align-items-center' for perfect vertical centering with text -->
             <a class="navbar-brand fw-bold d-flex align-items-center gap-2" href="index.php">
-                <img src="assets/images/index.png" alt="AVS Logo" width="40" height="40" class="d-inline-block align-text-top">
+                <img src="assets/images/logo.jpeg" alt="AVS Logo" width="40" height="40" class="d-inline-block align-text-top">
                 <span>Automated Vulnerability Scanner</span>
             </a>
             
@@ -482,7 +482,7 @@
         <p class="col-md-4 mb-0 text-muted">&copy; 2026 Automated Vulnerability Scanner</p>
         <a href="index.php" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-light text-decoration-none">
           <!-- ⭐ UPDATED FOOTER LOGO HERE TOO (Consistency) ⭐ -->
-          <img src="assets/images/index.png" alt="Logo" width="40" height="40">
+          <img src="assets/images/logo.jpeg" alt="Logo" width="40" height="40">
         </a>
         <ul class="nav col-md-4 justify-content-end">
           <li class="nav-item"><a href="mailto:support@avs.com" class="nav-link px-2 text-muted">Contact</a></li>
